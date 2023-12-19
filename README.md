@@ -1,1 +1,1 @@
-# This is one of the first Python scripts I ever wrote that worked. Atleas the second one under certain conditions, but the first one only works with a specific setp up of files on your desktop or file structure.
+# This is one of the first Python scripts I ever wrote that worked. Atleast the second one under certain conditions, but the first one only works with a specific setp up of files on your desktop or file structure.
